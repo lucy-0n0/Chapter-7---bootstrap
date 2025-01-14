@@ -32,6 +32,10 @@ footer {
   text-decoration: none;
 }
 
+.second-line a:hover {
+  color: burlywood;
+}
+
 .third-line{
   display:none
 }
@@ -45,3 +49,9 @@ footer {
     padding-left:2rem;
     padding-right:2rem;
 }
+
+.button-style:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #f8f9fa;
+  border: 1px solid #dadce0;
+  color: #202124;
